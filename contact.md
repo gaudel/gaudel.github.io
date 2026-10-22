@@ -17,8 +17,12 @@ romaric.gaudel AT irisa.fr
 ## Location
 
 Bât. 12D, bureau 166  
+
 CAMPUS DE BEAULIEU  
 IRISA/INRIA RENNES  
+
 263 avenue du Général Leclerc  
+
 35 042 RENNES cedex  
+
 FRANCE

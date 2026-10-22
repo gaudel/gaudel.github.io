@@ -5,6 +5,9 @@ lang: en
 url: "https://gaudel.github.io"
 baseurl: ""
 
+# No GitHub Pages default theme (Primer): layout and CSS are in this repo.
+theme: null
+
 markdown: kramdown
 kramdown:
   input: GFM

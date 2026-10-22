@@ -1,0 +1,41 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Jekyll: serve",
+      "type": "shell",
+      "command": "bundle exec jekyll serve --livereload --open-url",
+      "options": {
+        "env": {
+          "PATH": "/opt/homebrew/opt/ruby@3.3/bin:${env:PATH}",
+          "LANG": "en_US.UTF-8",
+          "LC_ALL": "en_US.UTF-8"
+        }
+      },
+      "isBackground": true,
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": { "reveal": "always", "panel": "dedicated" },
+      "problemMatcher": {
+        "owner": "jekyll",
+        "pattern": { "regexp": "^__never_matches__$" },
+        "background": {
+          "activesBegin": "^\\s*Generating\\.\\.\\.",
+          "endsPattern": "Server running\\.\\.\\."
+        }
+      }
+    },
+    {
+      "label": "Jekyll: install dependencies",
+      "type": "shell",
+      "command": "bundle install",
+      "options": {
+        "env": {
+          "PATH": "/opt/homebrew/opt/ruby@3.3/bin:${env:PATH}",
+          "LANG": "en_US.UTF-8",
+          "LC_ALL": "en_US.UTF-8"
+        }
+      },
+      "problemMatcher": []
+    }
+  ]
+}

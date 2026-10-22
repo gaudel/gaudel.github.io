@@ -20,7 +20,7 @@ Sources of Romaric Gaudel's homepage, built by GitHub Pages (Jekyll) from Markdo
 - Menu: `_data/navigation.yml`
 - Page template: `_layouts/default.html`
 - Style: `assets/css/style.css`
-- Profile photo: put it at `assets/img/photo.jpg` (shown on the home page as soon as the file exists).
+- Profile photo: put it at `assets/img/me.jpg` (shown on the home page as soon as the file exists).
 
 To add a page, create `my-page.md` with this front matter, then add it to `_data/navigation.yml` if it should appear in the menu:
 

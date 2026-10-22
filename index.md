@@ -5,9 +5,9 @@ title: Home
 
 # Romaric Gaudel
 
-{% assign photo = site.static_files | where: "path", "/assets/img/photo.jpg" | first %}
+{% assign photo = site.static_files | where: "path", "/assets/img/me.jpg" | first %}
 <div class="profile">
-  {% if photo %}<img src="{{ '/assets/img/photo.jpg' | relative_url }}" alt="Photo of Romaric Gaudel">{% endif %}
+  {% if photo %}<img src="{{ '/assets/img/me.jpg' | relative_url }}" alt="Photo of Romaric Gaudel">{% endif %}
   <div class="info" markdown="1">
 <p class="role">Assistant Professor (with "HdR")</p>
 
