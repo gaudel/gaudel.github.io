@@ -8,7 +8,7 @@ permalink: /teaching/
 
 ## Course pages
 
-- [ADM — Analyse de Données et Modélisation probabiliste (2025-2026)]({{ '/teaching/adm-2025/' | relative_url }})
+- [ADM — Analyse de Données et Modélisation probabiliste (2022-2027)]({{ '/teaching/adm/' | relative_url }})
 - [Notebook pour TP distillation](https://drive.google.com/file/d/1bK4w7KlGEXADW52xbDP9_F3fqabh6fO3/view?usp=sharing)
 
 ## Past teaching
