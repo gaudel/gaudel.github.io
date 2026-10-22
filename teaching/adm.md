@@ -16,7 +16,7 @@ Data, whatever they are, are of very limited value without the possibility to ex
 
 **Keywords:** data analysis, factor analysis, variance analysis, clustering, hypothesis testing, decision theory, estimation theory, Gaussian mixture models, EM algorithm, Markov chains, Markov fields, hidden Markov chains, Viterbi algorithm, Bayesian networks, token passing algorithm
 
-## Lectures, with the 2025-2026 dates
+## Lectures, with the 2026-2027 dates
 
 *(Lectures are 1.5-hour sessions, held in Room Guernesey unless otherwise specified)*  
 *(\[prev.\] indicates last year material which may be updated during the semester)*
