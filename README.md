@@ -13,7 +13,7 @@ Sources of Romaric Gaudel's homepage, built by GitHub Pages (Jekyll) from Markdo
 | Talks | `talks.md` |
 | Resume | `resume.md` |
 | Teaching | `teaching/index.md` |
-| ADM course | `teaching/adm-2025.md` |
+| ADM course | `teaching/adm.md` |
 | INFO2 (ENS Rennes) | `teaching/info2-2022-2023.md`, `teaching/info2-2020-2021.md`, `teaching/info2-2019-2020.md`, `teaching/info2-2017-2019.md` (+ its two forums `teaching/info2-forum-*.md`) |
 | Deep Learning (SV) | `teaching/deep-learning-sv.md` |
 

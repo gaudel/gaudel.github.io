@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ADM 2025
-permalink: /teaching/adm-2025/
+title: ADM
+permalink: /teaching/adm/
 ---
 
 # ADM — Analyse de Données et Modélisation probabiliste
@@ -21,25 +21,25 @@ Data, whatever they are, are of very limited value without the possibility to ex
 *(Lectures are 1.5-hour sessions, held in Room Guernesey unless otherwise specified)*  
 *(\[prev.\] indicates last year material which may be updated during the semester)*
 
-- **Wed. Sep. 10, 8h.** [A gentle reminder of the basics of probability: Kolmogorov](https://drive.google.com/file/d/1GaEdd3fHiTHVgfdIdWyNY9NmRszHGn6e/view?usp=sharing)
-- **Fri. Sep. 12, 8h.** [A gentle reminder of the basics of probability: random variables, moments, classical laws](https://drive.google.com/file/d/1GaEdd3fHiTHVgfdIdWyNY9NmRszHGn6e/view?usp=sharing)
-- **Wed. Sep. 17, 8h.** [Exploratory statistics: visualization, summaries, correlation](https://drive.google.com/file/d/1YS6Ogdkz5Sm6PsuMNsaNGfVrj8_K72F_/view?usp=sharing)
-- **Fri. Sep. 19, 8h.**
-  - [Exploratory statistics: PCA/LDA](https://drive.google.com/file/d/1YS6Ogdkz5Sm6PsuMNsaNGfVrj8_K72F_/view?usp=sharing)
-  - [Cluster analysis: k-means](https://drive.google.com/file/d/14ZNPcmZfMxm0dTRx9LgAslqFkeOCv7If/view?usp=sharing)
-- **Thu. Sep. 25, 8h.**
-  - [Cluster analysis: agglomerative/divisive clustering, spectral clustering and other weird things](https://drive.google.com/file/d/14ZNPcmZfMxm0dTRx9LgAslqFkeOCv7If/view?usp=sharing)
-- **Fri. Sep. 26, 8h.** [Fundamentals of statistical machine learning and estimation theory: cost function, decision theory, basic estimators](https://drive.google.com/file/d/14p2Gk68fPIt8p-1J9grndLEwPrK7_zCH/view?usp=sharing)
-- **Wed. Oct. 1, 8h.** [Fundamentals of statistical machine learning and estimation theory: estimation theory, practical estimation techniques](https://drive.google.com/file/d/14p2Gk68fPIt8p-1J9grndLEwPrK7_zCH/view?usp=sharing)
-- **Wed. Oct. 8, 8h.** [Mixture models: mixture models, hidden variables, estimation-maximization (EM) algorithm](https://drive.google.com/file/d/1DccEdGjikjHYwC1wyzSQ730Ki8EWgM07/view?usp=sharing)
+- **Wed. Sep. 9, 8h.** [A gentle reminder of the basics of probability]({{ '/files/adm-1.pdf' | relative_url }}) : Kolmogorov
+- **Fri. Sep. 11, 8h.** [A gentle reminder of the basics of probability]({{ '/files/adm-1.pdf' | relative_url }}): random variables, moments, classical laws
+- **Wed. Sep. 17, 9h45.** [Exploratory statistics]({{ '/files/adm-2.pdf' | relative_url }}): visualization, summaries, correlation
+- **Fri. Sep. 18, 8h.**
+  - [Exploratory statistics]({{ '/files/adm-2.pdf' | relative_url }}): PCA/LDA
+  - [Cluster analysis]({{ '/files/adm-3.pdf' | relative_url }}): k-means
+- **Mon. Sep. 21, 8h.**
+  - [Cluster analysis]({{ '/files/adm-3.pdf' | relative_url }}): agglomerative/divisive clustering, spectral clustering and other weird things
+- **Tue. Sep. 22, 16h45.** [Fundamentals of statistical machine learning and estimation theory]({{ '/files/adm-4.pdf' | relative_url }}): cost function, decision theory, basic estimators
+- **Tue. Sep. 29, 16h45.** [Fundamentals of statistical machine learning and estimation theory]({{ '/files/adm-4.pdf' | relative_url }}): estimation theory, practical estimation techniques
+- **Wed. Sep. 30, 8h.** [Mixture models]({{ '/files/adm-5.pdf' | relative_url }}): mixture models, hidden variables, estimation-maximization (EM) algorithm
   - see also [handnotes on the EM for a two Gaussian mixture model](http://people.irisa.fr/Guillaume.Gravier/ADM/two-gaussians-EM-notes.pdf)
-- **Fri. Oct. 10, 8h.** [Observable and hidden Markov models: Markov property, Markov chain, hidden Markov chain, Viterbi algorithm, Baum-Welsh algorithm, practical examples](https://drive.google.com/file/d/11PQDJr23Yo5A3qPVw95Sv79QV97hbouk/view?usp=sharing)
-- **Wed. Oct. 15, 8h.** [Observable and hidden Markov models: Markov property, Markov chain, hidden Markov chain, Viterbi algorithm, Baum-Welsh algorithm, practical examples](https://drive.google.com/file/d/11PQDJr23Yo5A3qPVw95Sv79QV97hbouk/view?usp=sharing)
-- **Wed. Oct. 22, 8h.** [Graphical models and Bayesian network: directed/undirected graphical models, Bayesian networks, inference and reasoning, moralization, variable elimination, junction tree algorithm](https://drive.google.com/file/d/1o7yL1h16Bfdoa-qWLRNkp-EAGId0OXHh/view?usp=drive_link)
-- **Thu. Oct. 23, 8h.** [Entropy and conditional random fields: maximum entropy principle, maxent model, logistic regression, log-linear sequence models, parameter estimation](https://drive.google.com/file/d/10wgxJCrLukIfJGF1W8a63ldZ8n7zlsCt/view?usp=drive_link)
-- **Wed. Nov. 5, 8h.** [Hypothesis testing: typology, likelihood ratio test, classical mean value tests, comparison and statistical significance, variance analysis](https://drive.google.com/file/d/16jmfH1MXLjpp8L7wb1TXFebF52ELcTj4/view?usp=sharing)
-- **Wed. Nov. 12, 8h.** [Hypothesis testing: multiple-hypothesis testing, exercices](https://drive.google.com/file/d/16jmfH1MXLjpp8L7wb1TXFebF52ELcTj4/view?usp=sharing)
-- **Wed. Nov. 19, 8h.** Final exam.
+- **Tue. Oct. 6, 17h45.** [Observable and hidden Markov models]({{ '/files/adm-6.pdf' | relative_url }}): Markov property, Markov chain, hidden Markov chain
+- **Tue. Oct. 13, 13h15.** [Observable and hidden Markov models]({{ '/files/adm-6.pdf' | relative_url }}): Viterbi algorithm, Baum-Welsh algorithm, practical examples
+- **Wed. Oct. 14, 11h30.** [Graphical models and Bayesian network]({{ '/files/adm-7.pdf' | relative_url }}): directed/undirected graphical models, Bayesian networks, inference and reasoning, moralization, variable elimination, junction tree algorithm
+- **Thu. Oct. 15, 9h45.** [Entropy and conditional random fields]({{ '/files/adm-8.pdf' | relative_url }}): maximum entropy principle, maxent model, logistic regression, log-linear sequence models, parameter estimation
+- **Tue. Oct. 20, 13h15.** [Hypothesis testing]({{ '/files/adm-9.pdf' | relative_url }}): typology, likelihood ratio test, classical mean value tests, comparison and statistical significance, variance analysis
+- **Fri. Oct. 23, 11h30.** Exercices
+- **Tue. Nov. 3, 13h15.** Final exam
 
 ## Evaluation / exams
 
