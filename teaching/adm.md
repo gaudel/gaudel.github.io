@@ -44,9 +44,9 @@ Data, whatever they are, are of very limited value without the possibility to ex
 ## Evaluation / exams
 
 - **Homework.** Write a short comment on either one of the articles below. Maximum length is 1000 words, ca. 1.5-2 pages single column 11 point font (English or French, as you wish). Your report shall identify the techniques seen in the classroom, explain why they are appropriate in the context of this paper and what efforts authors have made to cast their work into a probabilistic framework, explain how they were adapted and/or extended, discuss the limits you foresee (whether mentioned in the paper or not). Deadline for mailing comment: **before Nov. 10, 2026, 08:00 CET**
-  - Douglas Reynolds, Thomas Quatieri and Robert Dun. [Speaker verification using adapted Gaussian mixture models](http://people.irisa.fr/Guillaume.Gravier/ADM/articles2020/reynolds-00.pdf). Digital Signal Processing, 10:19-41, 2000
-  - Laurens van der Maaten and Geoffrey Hinton. [Visualizing data using t-SNE](http://people.irisa.fr/Guillaume.Gravier/ADM/articles2020/vandermaaten-08.pdf). Journal of Machine Learning Research, 9:2579-2605, 2008
-  - Tao Xiang and Shaogang Gong. [Spectral clustering with eigen vector selection](http://people.irisa.fr/Guillaume.Gravier/ADM/articles2020/xiang-08.pdf). Pattern recognition letter, 41:1012-1029, 2008
+  - Douglas Reynolds, Thomas Quatieri and Robert Dun. [Speaker verification using adapted Gaussian mixture models]({{ '/files/reynolds-00.pdf' | relative_url }}). Digital Signal Processing, 10:19-41, 2000
+  - Laurens van der Maaten and Geoffrey Hinton. [Visualizing data using t-SNE]({{ '/files/vandermaaten-08.pdf' | relative_url }}). Journal of Machine Learning Research, 9:2579-2605, 2008
+  - Tao Xiang and Shaogang Gong. [Spectral clustering with eigen vector selection]({{ '/files/xiang-08.pdf' | relative_url }}). Pattern recognition letter, 41:1012-1029, 2008
 - **Final exam.** Standard 1h30 written exam. You can check the text of past exams below.
   - 2025: [in French]({{ '/files/exam-nov-25-fr.pdf' | relative_url }})
   - 2024: [in French]({{ '/files/exam-nov-24-fr.pdf' | relative_url }}), [in English]({{ '/files/exam-nov-24-en.pdf' | relative_url }})
