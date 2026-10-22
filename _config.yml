@@ -1,0 +1,17 @@
+title: Romaric Gaudel
+description: Homepage of Romaric Gaudel — Assistant Professor at Univ. Rennes, IRISA / Inria (MALT team)
+author: Romaric Gaudel
+lang: en
+url: "https://gaudel.github.io"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
